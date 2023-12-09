@@ -1,0 +1,10 @@
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\bin\Debug\LOGINFORMCRUD.exe.config
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\bin\Debug\LOGINFORMCRUD.exe
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\bin\Debug\LOGINFORMCRUD.pdb
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.csproj.AssemblyReference.cache
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.Form1.resources
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.Properties.Resources.resources
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.csproj.GenerateResource.cache
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.csproj.CoreCompileInputs.cache
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.exe
+D:\C# Learning\University\LOGINFORMCRUD\LOGINFORMCRUD\obj\Debug\LOGINFORMCRUD.pdb
